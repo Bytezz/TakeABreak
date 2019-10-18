@@ -1,7 +1,7 @@
 # TakeABreak
 Python script to remind me to take a break from my screen
-Install Python 3
-TakeABreak2.py will run only on Windows but needs no dependencies except Python.
+Install Python 3  
+TakeABreak2.py will run only on Windows but needs no dependencies except Python.  
 to use TakeABreak.py 
 * install pip
 * pip install playsound
